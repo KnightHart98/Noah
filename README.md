@@ -1,5 +1,7 @@
-Realtà? Illusione? Qual è il tuo vero io?
+Progetto di traduzione in italiano del gioco Chaos;Head Noah.
 
+-STORIA
+Realtà? Illusione? Qual è il tuo vero io?
 Takumi Nishijo è un liceale NEET che vive in un container che chiama la sua "Base", colleziona figure di anime e non ha alcun interesse per il mondo tridimensionale.
 A Shibuya, il luogo in cui vive, una serie di strani omicidi sta facendo notizia "i delitti New Gen".
 
